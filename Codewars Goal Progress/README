@@ -1,0 +1,31 @@
+Codewars Progress Tracker
+
+A personal progress tracker for my Codewars journey.
+This project helps me visualize how far Ive come, keep track of points earned, and log when I solved a kata.
+
+⸻
+
+Features:
+- Dynamic progress bar that will update with my solved kata count.
+- Manual input or automated updates (future: Codewars API integration...Maybe).
+- Database storage to log kata completions with date/time.
+- Frontend UI built with Bootstrap for a clean, responsive design.
+- Backend logic in Python & JavaScript to handle calculations.
+
+--------------------
+
+How it will work:
+    1.Ill input the number of points Ive earned.
+    2.The tracker updates:
+        - Progress percentage (solved vs. total target).
+        - Visual progress bar.
+        - History log entry in the database.
+    3.Everything will stay synced so I can see long-term progress.
+
+---------------------
+
+Tech Stack:
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Backend: Python (In the future: for expansion)
+- Database: (MySQL)
+- Version Control: Git & GitHub
