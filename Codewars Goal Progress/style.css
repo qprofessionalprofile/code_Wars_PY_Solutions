@@ -6,3 +6,24 @@ p {
     text-align: center;
 }
 
+.points-card {
+    text-align: center;
+    margin: 40px auto;
+    width: 33rem;
+}
+
+.points-card .card-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color:crimson;
+}
+
+.points-card .card-title {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.card-header {
+    font-size: 3rem;
+    font-weight: bold;
+}
